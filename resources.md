@@ -56,9 +56,10 @@
 [Cp Sc 1110 - Programming in C 4th Edition](https://www.cs.clemson.edu/course/cpsc111/slides/)
 
 [C Programming Tutorial for Beginners: Learn C Language Basics](https://www.guru99.com/c-programming-tutorial.html)
-
+[Intro to Systems Programming, the C Language, and Tools for Software Engineering - COMP211 at UNC - Fall 2020](https://youtube.com/playlist?list=PLKUb7MEve0TjHQSKUWChAWyJPCpYMRovO)
 
 
 ### Algorithms
 
 [Design and Analysis of Algorithms: DAA Tutorial](https://www.guru99.com/design-analysis-algorithms-tutorial.html)
+
