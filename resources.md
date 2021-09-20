@@ -63,3 +63,6 @@
 
 [Design and Analysis of Algorithms: DAA Tutorial](https://www.guru99.com/design-analysis-algorithms-tutorial.html)
 
+
+### Exam questions for C learners
+[Exam & Interview questions](https://www.youtube.com/playlist?list=PLVlQHNRLflP84oVpQM8HPgT67PMb4Zl7n)
