@@ -57,12 +57,14 @@
 
 [C Programming Tutorial for Beginners: Learn C Language Basics](https://www.guru99.com/c-programming-tutorial.html)
 [Intro to Systems Programming, the C Language, and Tools for Software Engineering - COMP211 at UNC - Fall 2020](https://youtube.com/playlist?list=PLKUb7MEve0TjHQSKUWChAWyJPCpYMRovO)
-
+[C Language Tutorial Videos | Mr. Srinivas](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
 
 ### Algorithms
 
 [Design and Analysis of Algorithms: DAA Tutorial](https://www.guru99.com/design-analysis-algorithms-tutorial.html)
 
+### C language resources
+[C Programming Tutorials for Beginners](https://www.includehelp.com/c/)
 
 ### Exam questions for C learners
 [Exam & Interview questions](https://www.youtube.com/playlist?list=PLVlQHNRLflP84oVpQM8HPgT67PMb4Zl7n)
