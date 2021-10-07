@@ -68,3 +68,7 @@
 
 ### Exam questions for C learners
 [Exam & Interview questions](https://www.youtube.com/playlist?list=PLVlQHNRLflP84oVpQM8HPgT67PMb4Zl7n)
+
+### C exercises
+[C programming examples, exercises and solutions for beginners](https://codeforwin.org/c-programming-examples-exercises-solutions-beginners)
+[250+ C programming examples, exercises and solutions for beginners](https://techstudy.org/clanguage/c-programming-example-and-solutions)
