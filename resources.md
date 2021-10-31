@@ -72,3 +72,17 @@
 ### C exercises
 [C programming examples, exercises and solutions for beginners](https://codeforwin.org/c-programming-examples-exercises-solutions-beginners)
 [250+ C programming examples, exercises and solutions for beginners](https://techstudy.org/clanguage/c-programming-example-and-solutions)
+
+
+
+
+[Git](https://code-maven.com/slides/git-intro/)
+
+
+### Prep for interview & Learn Data Sctructures and Algorithms
+[binaryseach.com](https://binarysearch.com/)
+[Prep for google](https://nodir.medium.com/job-at-google-in-6-months-recipe-20c5bf3104d9)
+[Mock interview](https://docs.google.com/forms/d/e/1FAIpQLSfWz5MRfrE96F283-FLSzzOkXplnt1GslBk8vqhi73R80M-kA/viewform)
+[Ish topish haqida](https://azimjon.com/blog/birinchi-ishni-topish-haqida/)
+[Rezyume tayyorlash](https://azimjon.com/blog/yaxshi-rezyume-tayyorlash-haqida/)
+
